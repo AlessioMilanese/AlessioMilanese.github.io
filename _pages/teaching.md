@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* _**Teaching at the [Microbial Communities: Modelling Meets Experiments](https://www.embl.de/training/events/2018/MCP18-01/index.html) EMBL course**_.  
+* _**Teaching at the EMBL course: [Microbial Communities: Modelling Meets Experiments](https://www.embl.de/training/events/2018/MCP18-01/index.html)**_.  
 Practical session on "_Inferring community composition and species interaction networks from metagenomic data_".
 
 * _**Teaching assistant for the course "Programming for Bioinformatics"**_.  
