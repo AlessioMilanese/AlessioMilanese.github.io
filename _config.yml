@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alessio Milanese"
   avatar           : "profile.png"
-  bio              : "PhD student at EMBL"
-  location         : "Heidelberg"
+  bio              : "PhD student at EMBL Heidelberg and ETH (Switzerland)"
+  location         : "Heidelberg, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fX1a6v4AAAAJ&hl=en"
@@ -225,15 +225,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
