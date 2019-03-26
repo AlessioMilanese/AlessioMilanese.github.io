@@ -5,13 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
+* _**Teaching at the [Microbial Communities: Modelling Meets Experiments](https://www.embl.de/training/events/2018/MCP18-01/index.html) EMBL course**_.  
+Practical session on "_Inferring community composition and species interaction networks from metagenomic data_".
 
+* _**Teaching assistant for the course "Programming for Bioinformatics"**_.  
+From October 2013 to June 2014 (9 months). Course of the undergraduate degree in Bioinformatics, department of Computer science, University of Verona.  
+Lectures: Dr. Damiano Macedonio and Dr. Luca Marchetti.
 
-_October 2018_   
-Main organiser of the __Basic Teaching Module__ of the EMBL
-PhD course (together with Stephanie Cheung and Anniek Stokkermans)  
-In this module, I taught:
-- an introduction to `bash`
-- an introduction to `git` (see also
-[this repository](https://github.com/jakob-wirbel/git_btm_2018))
-- basic stats with `R`
+  
+# Other
+
+* _**co-organizer of the [19th EMBL PhD symposium](http://phdsymposium.embl.org/symp2017/)**_.  
+EMBL Heidelberg, Germany (19-21 October 2017). 
+
