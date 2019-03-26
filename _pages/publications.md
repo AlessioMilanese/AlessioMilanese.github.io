@@ -11,7 +11,7 @@ author_profile: true
 
 ## 2019
 
-_**Microbial abundance, activity and population genomic profiling with mOTUs2**_
+_**Microbial abundance, activity and population genomic profiling with mOTUs2**_<\br>
 __Alessio Milanese__, Daniel R Mende, Lucas Paoli, Guillem Salazar, Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves, Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt, Alexandre Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller & Shinichi Sunagawa.
 _Nature Communications_ **10**, Article number: 1014 (2019).
 doi: [10.1038/s41467-019-08844-4](https://www.nature.com/articles/s41467-019-08844-4)
