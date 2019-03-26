@@ -11,23 +11,24 @@ author_profile: true
 
 ## 2019
 
-__[Extensive transmission of microbes along the gastrointestinal tract](https://elifesciences.org/articles/42693)__  
-Thomas SB Schmidt, Matthew R Hayward, Luis P Coelho, Simone S Li, Paul I
-Costea, Anita Y Voigt, __Jakob Wirbel__, Oleksandr M Maistrenko, Renato JC
-Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna Heintz-Buschart,
-Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork   
-_eLife 2019;8:e42693_
+_**Microbial abundance, activity and population genomic profiling with mOTUs2**_\
+__Alessio Milanese__, Daniel R Mende, Lucas Paoli, Guillem Salazar, Hans-Joachim Ruscheweyh, Miguelangel Cuenca,
+Pascal Hingamp, Renato Alves, Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt,
+Alexandre Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas,
+Peer Bork, Georg Zeller & Shinichi Sunagawa.\
+_Nature Communications_ **10**, Article number: 1014 (2019).
+doi: [10.1038/s41467-019-08844-4](https://www.nature.com/articles/s41467-019-08844-4)
 
 ## 2018
 
-__[Phosphoproteomics-Based Profiling of Kinase Activities in Cancer Cells.](https://link.springer.com/protocol/10.1007%2F978-1-4939-7493-1_6)__  
-__Jakob Wirbel__, Pedro Cutillas, Julio Saez-Rodriguez  
-_Cancer Systems Biology pp 103-132_
+_**Magnetosomes extracted from Magnetospirillum gryphiswaldense as theranostic agents in an experimental model of glioblastoma**_\
+Silvia Mannucci, Stefano Tambalo, Giamaica Conti, Leonardo Ghin, __Alessio Milanese__, Anna Carboncino, Elena Nicolato, Maria Rosaria Marinozzi, Donatella Benati, Roberto Bassi, Pasquina Marzola, Andrea Sbarbati.\
+_Contrast media & molecular imaging_, Volume 2018, Article ID 2198703.
+doi: [10.1155/2018/2198703](https://doi.org/10.1155/2018/2198703)
 
 ## 2015
 
-
-__[Red Blood Cells Preconditioned with Hemin Are Less Permissive to Plasmodium Invasion In Vivo and In Vitro](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140805)__  
-Véronique Gaudreault, __Jakob Wirbel__, Armando Jardim, Petra Rohrbach,
-Tatiana Scorza  
-_PLoS ONE 10(10): e0140805_
+_**A genome analysis based on repeat sharing gene networks**_\
+Alberto Castellini, Giuditta Franco, __Alessio Milanese__.\
+_Natural Computing_ **14** (3), 403-420.
+doi: [10.1007/s11047-014-9437-6](https://link.springer.com/article/10.1007/s11047-014-9437-6)
