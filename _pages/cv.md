@@ -63,9 +63,9 @@ Bash, Linux, Latex, Cytoscape.
 
 * **Programming languages and software development tools:**
    * Good knowledge:  
-   Python, R, C, Java
+   Python, NumPy, SciPy, R, C, Java
    * Basic/fair knowledge:  
-   BioPython, Perl, Matlab, SQL 
+   C++, Perl, Matlab, SQL 
 
 
 
