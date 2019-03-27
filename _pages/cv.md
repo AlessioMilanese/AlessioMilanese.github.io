@@ -55,9 +55,9 @@ Course of the undergraduate degree in Bioinformatics, department of Computer sci
 Lectures: Dr. Damiano Macedonio and Dr. Luca Marchetti.
 
   
-# Others
+## Others
 
-* _**Co-organizer of the [19th EMBL PhD symposium](http://phdsymposium.embl.org/symp2017/)**_. _(19 - 21 October 2017)_
+* _**Co-organizer of the [19th EMBL PhD symposium](http://phdsymposium.embl.org/symp2017/)**_. _(19 - 21 October 2017)_  
 <img src="https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/8753.png" width="17" title="Location: "> Heidelberg, Germany  
 Part of the finacial team that applied for grants and sponsors.
 
