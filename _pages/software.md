@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-__mOTUs 2__  
+## __mOTUs 2__  
 [![Build status](https://ci.appveyor.com/api/projects/status/0x4veuuoabm6018v/branch/master?svg=true)](https://ci.appveyor.com/project/AlessioMilanese/motus-v2/branch/master)
 [![Install with Bioconda](https://anaconda.org/bioconda/motus/badges/installer/conda.svg)](https://anaconda.org/bioconda/motus)
 [![container ready](https://quay.io/repository/biocontainers/motus/status)](https://quay.io/repository/biocontainers/motus)
