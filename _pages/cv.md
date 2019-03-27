@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+## Research activity
 
 - __PHD student__ _(September 2016 - Present)_  
 <img src="https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/8753.png" width="17" title="Location: "> Heidelberg, Germany  
@@ -24,6 +25,8 @@ Analysing structural variations in cancer genomes using computational genomics m
 <img src="https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/8753.png" width="17" title="Location: "> Potsdam, Germany  
 The project deals with the application of regularization techniques (such as generalized LASSO regression) to create linear models for predicting maize biomass, using metabolic profiles as predictors.
 Under the supervision of [Zoran Nikoloski](https://www.mpimp-golm.mpg.de/13193/Zoran_Nikoloski) at the Max Planck Institute of Molecular Plant Physiology.
+
+## Higher Education
 
 - __Master's degree__ _(October 2012 - March 2015 | 2.5 years)_  
 <img src="https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/8753.png" width="17" title="Location: "> Verona, Italy  
