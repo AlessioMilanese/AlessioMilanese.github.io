@@ -54,7 +54,21 @@ Practical session on "_Inferring community composition and species interaction n
 Course of the undergraduate degree in Bioinformatics, department of Computer science, University of Verona.  
 Lectures: Dr. Damiano Macedonio and Dr. Luca Marchetti.
 
-  
+
+## Programming skills
+
+* **Operating systems and main software packages:**  
+Bash, Linux, Latex, Cytoscape.
+
+
+* **Programming languages and software development tools:**
+   * Good knowledge:  
+   Python, R, C, Java
+   * Basic/fair knowledge:  
+   BioPython, Perl, Matlab, SQL 
+
+
+
 ## Others
 
 * **Co-organizer of the [19th EMBL PhD symposium](http://phdsymposium.embl.org/symp2017/)** _(19 - 21 October 2017)_  
