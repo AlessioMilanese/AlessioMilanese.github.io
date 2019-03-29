@@ -26,10 +26,12 @@ Presented at the [International Human Microbiome Consortium 2018](http://apc.ucc
 ## 2017
 * _**Reference-independent taxonomic profiling of metagenomes with an extended version of mOTUs**_  
 __Alessio Milanese__, Daniel R Mende, Georg Zeller & Shinichi Sunagawa.  
-Presented at [New frontiers symposium on microbiome](https://www.radboudumc.nl/en/research/extra/new-frontiers-symposium/past-symposia/new-frontiers-symposium-2017-report) at Nijmegen, the Netherlands (12-13 October 2017).
+Presented at [New frontiers symposium on microbiome](https://www.radboudumc.nl/en/research/extra/new-frontiers-symposium/past-symposia/new-frontiers-symposium-2017-report) at Nijmegen, the Netherlands (12-13 October 2017).  
+doi: [10.7490/f1000research.1116490.1](https://f1000research.com/posters/8-339)
 
 ## 2016
 
 * _**ArrayMap 2016: systematic genome profile retrieval and metadata structure development**_  
 __Alessio Milanese__ , Paula Carrio Cordo , Michael Baudis.  
-Presented at [_Swiss Institute of Bioinformatics SIB Days_](https://www.sib.swiss/events/sibdays2016/workshops) at Biel/Bienne, Switzerland (7-8 June 2016). doi: [10.7490/f1000research.1112429.1](https://doi.org/10.7490/f1000research.1112429.1)
+Presented at [_Swiss Institute of Bioinformatics SIB Days_](https://www.sib.swiss/events/sibdays2016/workshops) at Biel/Bienne, Switzerland (7-8 June 2016).  
+doi: [10.7490/f1000research.1112429.1](https://doi.org/10.7490/f1000research.1112429.1)
