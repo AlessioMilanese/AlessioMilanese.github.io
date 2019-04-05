@@ -11,11 +11,15 @@ author_profile: true
 
 ## 2019
 
-
 * _**Microbial abundance, activity and population genomic profiling with mOTUs2**_  
 __Alessio Milanese__, Daniel R Mende, Lucas Paoli, Guillem Salazar, Hans-Joachim Ruscheweyh, Miguelangel Cuenca, Pascal Hingamp, Renato Alves, Paul I Costea, Luis Pedro Coelho, Thomas S B Schmidt, Alexandre Almeida, Alex L Mitchell, Robert D Finn, Jaime Huerta-Cepas, Peer Bork, Georg Zeller & Shinichi Sunagawa.  
 _Nature Communications_ **10**, Article number: 1014 (2019).
 doi: [10.1038/s41467-019-08844-4](https://www.nature.com/articles/s41467-019-08844-4)
+
+* _**Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal cancer**_  
+Jakob Wirbel, Paul Theodor Pyl, Ece Kartal, Konrad Zych, Alireza Kashani, __Alessio Milanese__, Jonas S. Fleck, Anita Y. Voigt, Albert Palleja, Ruby Ponnudurai, Shinichi Sunagawa, Luis Pedro Coelho, Petra Schrotz-King, Emily Vogtmann, Nina Habermann, Emma Niméus, Andrew M. Thomas, Paolo Manghi, Sara Gandini, Davide Serrano, Sayaka Mizutani, Hirotsugu Shiroma, Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada, Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha, Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork & Georg Zeller.  
+_Nature Medicine_ (2019).
+doi: [10.1038/s41591-019-0406-6](https://www.nature.com/articles/s41591-019-0406-6)
 
 ## 2018
 
