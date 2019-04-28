@@ -11,4 +11,4 @@ I am a PhD student at EMBL Heidelberg in the group of Dr. Georg Zeller.
 During my PhD I am developing tools to improve the analysis of microbiome data. In particular, I am interested in taxonomic profiling tools: how we can retrieve the composition of a microbial community from high-throughput sequencing data (either from whole metagenome sequencing or 16s rRNA gene amplicon).
 
 
-![alt text](https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/SDFS_lay03.png)
+![alt text](https://raw.githubusercontent.com/AlessioMilanese/AlessioMilanese.github.io/master/images/main_2.png)
